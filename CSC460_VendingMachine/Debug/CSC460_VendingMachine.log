@@ -1,0 +1,4 @@
+﻿  Vending_Machine.cpp
+e:\documents\visual studio 2015\projects\csc460_vendingmachine\csc460_vendingmachine\vending_machine.cpp(187): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  CSC460_VendingMachine.vcxproj -> E:\Documents\Visual Studio 2015\Projects\CSC460_VendingMachine\Debug\CSC460_VendingMachine.exe
+  CSC460_VendingMachine.vcxproj -> E:\Documents\Visual Studio 2015\Projects\CSC460_VendingMachine\Debug\CSC460_VendingMachine.pdb (Partial PDB)
